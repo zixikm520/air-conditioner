@@ -3,8 +3,8 @@ Air Conditioner
 </h1>
 
 <p align="center">
-<a href="https://github.com/YunYouJun/air-conditioner/actions" target="_blank">
-<img src="https://github.com/YunYouJun/air-conditioner/workflows/Github%20Pages/badge.svg" alt="GitHub Pages" />
+<a href="https://github.com/zixikm520/air-conditioner" target="_blank">
+<img src="https://github.com/zixikm520/air-conditioner/workflows/Github%20Pages/badge.svg" alt="GitHub Pages" />
 </a>
 </p>
 
@@ -17,11 +17,11 @@ Cloud air conditioner. Portable air conditioner. Invite a cool breeze into your 
 </p>
 <br>
 
-> History: [云空调，便携小空调｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
+> History: [云空调，便携小空调｜路的小站](https://github.com/zixikm520/air-conditioner/)
 
-- Machine Only[main]：[ac.yunyoujun.cn](https://ac.yunyoujun.cn)
-- Test Machine[dev]：[ac.yyj.moe](https://ac.yyj.moe)
-- Sample Room：<https://www.yunyoujun.cn/air-conditioner-room/>
+- Machine Only[main]：[ac.yunyoujun.cn](https://www.xiangyuni.cn)
+- Test Machine[dev]：[www.xiangyuni.cn](www.xiangyuni.cn)
+- Sample Room：<https://qqdgw1.gdxfsh.org/>
 
 ## Features
 
@@ -43,12 +43,12 @@ Cloud air conditioner. Portable air conditioner. Invite a cool breeze into your 
 ### iframe
 
 ```html
-<iframe height="740" src="https://ac.yunyoujun.cn"></iframe>
+<iframe height="740" src="https://www.xiangyuni.cn"></iframe>
 ```
 
 Quickly install an air conditioner on your website.
 
-Sample Room：[AC Room](https://www.yunyoujun.cn/air-conditioner-room/)
+Sample Room：[AC Room](https://github.com/zixikm520/air-conditioner/)
 
 ### Home Installation Service
 
@@ -108,10 +108,10 @@ VITE_DISABLE_ADSENSE=true
 - Numbers font: [Digital 7](https://www.dafont.com/digital-7.font)，Free for personal use
 - Working sounds of the AC: [Air Extractor Fan | freesound](https://freesound.org/people/InspectorJ/sounds/403664/)
 
-## [Sponsors](https://sponsors.yunyoujun.cn)
+## [Sponsors](https://qqdgw1.gdxfsh.org/)
 
 <p align="center">
-  <a href="https://sponsors.yunyoujun.cn">
-    <img src='https://fastly.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
+  <a href="https://qqdgw1.gdxfsh.org/">
+    <img src=''/>
   </a>
 </p>
