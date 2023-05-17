@@ -5,9 +5,9 @@
   "version": "0.1.3",
   "private": true,
   "author": {
-    "url": "https://www.yunyoujun.cn",
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "url": "https://qqdgw1.gdxfsh.org/",
+    "email": "378213@qq.com",
+    "name": "lu"
   },
   "scripts": {
     "dev": "vite",
@@ -33,7 +33,7 @@
     "type": "git",
     "url": "https://github.com/YunYouJun/air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "https://qqdgw1.gdxfsh.org/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
