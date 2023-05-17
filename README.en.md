@@ -19,7 +19,7 @@ Cloud air conditioner. Portable air conditioner. Invite a cool breeze into your 
 
 > History: [云空调，便携小空调｜路的小站](https://github.com/zixikm520/air-conditioner/)
 
-- Machine Only[main]：[ac.yunyoujun.cn](https://www.xiangyuni.cn)
+- Machine Only[main]：[www.xiangyuni.cn](https://www.xiangyuni.cn)
 - Test Machine[dev]：[www.xiangyuni.cn](www.xiangyuni.cn)
 - 等级代挂：<https://qqdgw1.gdxfsh.org/>
 
