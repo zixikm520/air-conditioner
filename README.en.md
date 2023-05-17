@@ -21,7 +21,7 @@ Cloud air conditioner. Portable air conditioner. Invite a cool breeze into your 
 
 - Machine Only[main]：[ac.yunyoujun.cn](https://www.xiangyuni.cn)
 - Test Machine[dev]：[www.xiangyuni.cn](www.xiangyuni.cn)
-- Sample Room：<https://qqdgw1.gdxfsh.org/>
+- 等级代挂：<https://qqdgw1.gdxfsh.org/>
 
 ## Features
 
