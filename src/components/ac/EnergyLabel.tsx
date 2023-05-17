@@ -107,7 +107,7 @@ export function EnergySavingLabel() {
   return (
     <a
       className="adsense-link"
-      href="https://sponsors.yunyoujun.cn"
+      href="https://qqdgw1.gdxfsh.org/"
       target="_blank" rel="noreferrer"
     >
       <div className="energy-saving-label">
