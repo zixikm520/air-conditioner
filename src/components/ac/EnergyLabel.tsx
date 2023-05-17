@@ -108,7 +108,7 @@ export function EnergySavingLabel() {
   return (
     <a
       className="adsense-link"
-      href="https://sponsors.yunyoujun.cn"
+      href="https://qqdgw1.gdxfsh.org/"
       target="_blank" rel="noreferrer"
     >
       <div className="energy-saving-label">
@@ -125,13 +125,13 @@ export function EnergySavingLabel() {
             💰
           </span>
           <span className="energy-saving-label_description">
-            推广上限价格：XXXX 元
+            全网最稳定QQ代挂
           </span>
           <span className="energy-saving-label_description">
-            政府补助金额：XXXX 元
+            限时特惠
           </span>
           <span className="energy-saving-label_description">
-            补助上限价格：XXXX 元
+            五折买永久
           </span>
         </div>
       </div>
