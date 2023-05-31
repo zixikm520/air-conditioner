@@ -1,5 +1,5 @@
 import type { FC } from 'react'
-import { adsenseLink, jumpToAdsense } from '~/utils/adsense'
+import { jumpToAdsense } from '~/utils/adsense'
 import useDark from '~/hooks/useDark'
 
 /**
@@ -11,7 +11,7 @@ const AdsenseLink: FC<{ text: string }> = (props) => {
   return (
     <a
       className="adsense-text-link"
-      href={adsenseLink}
+      // href={adsenseLink}
       target="_blank"
       onClick={() => {
         jumpToAdsense()

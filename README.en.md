@@ -3,8 +3,8 @@ Air Conditioner
 </h1>
 
 <p align="center">
-<a href="https://github.com/YunYouJun/air-conditioner/actions" target="_blank">
-<img src="https://github.com/YunYouJun/air-conditioner/workflows/Github%20Pages/badge.svg" alt="GitHub Pages" />
+<a href="https://github.com/YunXuan/air-conditioner/actions" target="_blank">
+<img src="https://github.com/YunXuan/air-conditioner/workflows/Github%20Pages/badge.svg" alt="GitHub Pages" />
 </a>
 </p>
 
@@ -17,7 +17,7 @@ Cloud air conditioner. Portable air conditioner. Invite a cool breeze into your 
 </p>
 <br>
 
-> History: [云空调，便携小空调｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
+> History: [云空调，便携小空调｜云轩的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
 
 - Machine Only[main]：[ac.yunyoujun.cn](https://ac.yunyoujun.cn)
 - Test Machine[dev]：[ac.yyj.moe](https://ac.yyj.moe)
@@ -112,6 +112,6 @@ VITE_DISABLE_ADSENSE=true
 
 <p align="center">
   <a href="https://sponsors.yunyoujun.cn">
-    <img src='https://fastly.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
+    <img src='https://fastly.jsdelivr.net/gh/YunXuan/sponsors/public/sponsors.svg'/>
   </a>
 </p>

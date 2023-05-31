@@ -7,43 +7,43 @@ const socialList = [
     type: 'github',
     color: 'inherit',
     icon: 'i-mdi-github',
-    label: 'GitHub: YunYouJun',
-    href: 'https://github.com/YunYouJun',
+    label: 'GitHub: YunXuan',
+    href: 'https://qqdgw1.gdxfsh.org/',
   },
   {
     type: 'telegram',
     color: '#1da1f2',
     icon: 'i-mdi-telegram',
     label: 'Telegram Channel',
-    href: 'https://t.me/elpsycn',
+    href: 'https://qqdgw1.gdxfsh.org/',
   },
   {
     type: 'weibo',
     color: '#DB2828',
     icon: 'i-mdi-sina-weibo',
-    label: '微博：机智的云游君',
-    href: 'http://weibo.com/jizhideyunyoujun',
+    label: '微博：Carlos·Lu',
+    href: 'https://weibo.com/u/3287963161',
   },
   {
     type: 'twitter',
     color: '#1da1f2',
     icon: 'i-mdi-twitter',
-    label: 'Twitter: YunYouJun',
-    href: 'https://twitter.com/YunYouJun',
+    label: 'Twitter: YunXuan',
+    href: 'https://qqdgw1.gdxfsh.org/',
   },
   {
     type: 'wechat',
     color: '#1AAD19',
     icon: 'i-mdi-wechat',
-    label: '微信公众号：云游君',
-    href: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
+    label: '微信公众号：云轩',
+    href: '/',
   },
   {
     type: 'blog',
     color: '#6435C9',
     icon: 'i-mdi-earth',
-    label: '博客：yunyoujun.cn',
-    href: 'http://www.yunyoujun.cn',
+    label: '博客',
+    href: 'https://qqdgw1.gdxfsh.org/',
   },
 ]
 
@@ -64,7 +64,7 @@ const Copyright: React.FC = () => {
           <div className="i-mdi-cloud text-sm mx-1" />
         </a>
         <a href={pkg.author.url} target="_blank" rel="noreferrer">
-          云游君 @{pkg.author.name}
+          云轩 @{pkg.author.name}
         </a>
       </div>
       <p>
