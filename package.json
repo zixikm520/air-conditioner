@@ -7,7 +7,7 @@
   "author": {
     "url": "https://www.yunyoujun.cn",
     "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "name": "YunXuan"
   },
   "scripts": {
     "dev": "vite",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YunYouJun/air-conditioner"
+    "url": "https://qqdgw1.gdxfsh.org/"
   },
   "homepage": "https://ac.yunyoujun.cn/",
   "dependencies": {
